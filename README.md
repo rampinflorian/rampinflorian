@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASPNET.CORE**
 
-- 👨‍💻 All of my projects are available at [https://cv.rampin.me/project](https://cv.rampin.me)
+- 👨‍💻 All of my projects are available at [https://cv.rampin.me](https://cv.rampin.me)
 
 - 💬 Ask me about **DOTNET**
 
