@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ASPNET.CORE**
 
-- 👨‍💻 All of my projects are available at [https://www.florianrampin.fr/project](https://www.florianrampin.fr/project)
+- 👨‍💻 All of my projects are available at [https://cv.rampin.me/project](https://cv.rampin.me)
 
 - 💬 Ask me about **DOTNET**
 
-- 📫 How to reach me **contact@florianrampin.fr**
+- 📫 How to reach me **florian@rampin.me**
 
-- 📄 Know about my experiences [https://www.florianrampin.fr/resume](https://www.florianrampin.fr/resume)
+- 📄 Know about my experiences [https://cv.rampin.me](https://cv.rampin.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
