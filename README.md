@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florian Rampin</h1>
 <h3 align="center">A french developper 🟦⬜🟥</h3>
 
-- 🔭 I’m currently working on [TheLastBot](https://github.com/rampinflorian/TheLastBot)
-
-- 🌱 I’m currently learning **ASPNET.CORE**
+- 🔭 I’m currently working on [Aidalap](https://www.aidalap.fr)
 
 - 👨‍💻 All of my projects are available at [https://cv.rampin.me](https://cv.rampin.me)
 
